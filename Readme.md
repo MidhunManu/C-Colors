@@ -7,4 +7,10 @@ This is a program which will allow programmers to get coloured output in their t
 ## Install
 ```
 git clone https://github.com/MidhunManu/C-Colors
+cd C-Colors
 ```
+
+```
+sudo cp colors.h /usr/bin/
+```
+
