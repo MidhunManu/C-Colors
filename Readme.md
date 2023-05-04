@@ -1,4 +1,4 @@
-# This is a program which will allow programmers to get coloured output in their terminal.
+## This is a program which will allow programmers to get coloured output in their terminal.
 
 ## Install
 # For GNU/Linux 
