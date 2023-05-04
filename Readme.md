@@ -9,7 +9,7 @@ cd C-Colors
 ```
 
 ```
-sudo cp colors.h /usr/bin/
+sudo cp colors.h /usr/include/
 ```
 done, you can now use this header file in any C program
 
