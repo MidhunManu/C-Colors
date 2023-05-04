@@ -1,4 +1,3 @@
-#C Colour Codes
 This is a program which will allow programmers to get coloured output in their terminal.
 
 ## Install
