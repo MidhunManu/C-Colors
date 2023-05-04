@@ -1,3 +1,4 @@
+// header file to add colours to output
 #include <stdio.h>
 void black() {
   printf("\033[0;30m");
